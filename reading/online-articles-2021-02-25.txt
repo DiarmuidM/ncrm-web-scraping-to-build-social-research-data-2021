@@ -9,3 +9,4 @@ https://www.whoishostingthis.com/tools/user-agent/
 https://www.codementor.io/@scrapingdog/10-tips-to-avoid-getting-blocked-while-scraping-websites-16papipe62
 https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html
 https://www.scraperapi.com/blog/5-tips-for-web-scraping/
+https://httpstatuses.com/

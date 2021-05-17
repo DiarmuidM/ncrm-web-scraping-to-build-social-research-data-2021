@@ -1,12 +1,5 @@
 [All links working as of 12/05/2021]
 
-
-
-https://www.acnc.gov.au/robots.txt
-
-https://httpbin.org/
-
-Read:
 https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/
 https://oxylabs.io/blog/is-web-scraping-legal
 https://medium.com/@tjwaterman99/web-scraping-is-now-legal-6bf0e5730a78

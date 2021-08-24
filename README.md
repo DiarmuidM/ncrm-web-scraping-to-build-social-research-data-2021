@@ -12,7 +12,7 @@ It is most suited to empirical social science researchers.
 
 ## Course materials
 
-This repository houses the materials underpinning a [one-day NCRM course on web scraping](https://www.ncrm.ac.uk/training/show.php?article=11232) run by [Dr Diarmuid McDonnell](https://www.birmingham.ac.uk/staff/profiles/social-policy/mcdonnell-diarmuid.aspx), University of Birmingham. The course was first run on 2021-05-17.
+This repository houses the materials underpinning a [one-day NCRM course on web scraping](https://www.ncrm.ac.uk/training/show.php?article=11232) run by [Dr Diarmuid McDonnell](https://www.uws.ac.uk/staff-directory/diarmuid-mcdonnell/), University of the West of Scotland. The course was first run on 2021-05-17.
 
 ### Programme
 
@@ -27,8 +27,8 @@ The training materials can be found in the following folders:
 
 ## Acknowledgements
 
-I am grateful to the National Centre for Research Methods (NCRM) for funding this course.
+I am grateful to the National Centre for Research Methods (NCRM) for funding this course and an associated set of online learning resources.
 
 ## Further information
 
-Please do not hesitate to get in contact if you have queries, criticisms and ideas regarding these materials: [Dr Diarmuid McDonnell](mailto:d.mcdonnell.1@bham.ac.uk)
+Please do not hesitate to get in contact if you have queries, criticisms and ideas regarding these materials: [Dr Diarmuid McDonnell](mailto:diarmuid.mcdonnell@uws.ac.uk)

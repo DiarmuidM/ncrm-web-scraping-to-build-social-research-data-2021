@@ -31,4 +31,4 @@ I am grateful to the National Centre for Research Methods (NCRM) for funding thi
 
 ## Further information
 
-Please do not hesitate to get in contact if you have queries, criticisms and ideas regarding these materials: [Dr Diarmuid McDonnell](mailto:diarmuid.mcdonnell@uws.ac.uk)
+Please do not hesitate to get in contact if you have queries, criticisms or ideas regarding these materials: [Dr Diarmuid McDonnell](mailto:diarmuid.mcdonnell@uws.ac.uk)
